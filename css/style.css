@@ -34,3 +34,8 @@ h2 {
   font-size: 25px;
   margin-bottom: 40px;
  }
+
+a {
+  color: #BFE35B;
+  text-decoration: none;
+}
