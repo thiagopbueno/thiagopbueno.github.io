@@ -19,12 +19,18 @@ body {
   padding: 30px;
 }
 
+.contacts {
+  padding-top: 40px;
+}
+
 h1 {
   font-family: 'Rokkitt', serif;
   font-size: 80px;
+  margin-bottom: -30px;
 }
 
 h2 {
   font-family: 'Rock Salt', cursive;
   font-size: 25px;
+  margin-bottom: 40px;
  }
