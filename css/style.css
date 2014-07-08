@@ -4,6 +4,7 @@ body {
   background-position: center;
   background-attachment: fixed;
   color: white;
+  font-family: 'Lato', sans-serif;
 }
 
 .container {
@@ -16,3 +17,11 @@ body {
   background: rgba(0,0,0,0.4);
   padding: 30px;
 }
+
+h1 {
+  font-family: 'Rokkitt', serif;
+}
+
+h2 {
+  font-family: 'Rock Salt', cursive;
+ }
