@@ -8,5 +8,11 @@ body {
 
 .container {
   width: 600px;
+  margin: 80px 40px;
+  border-radius: 10px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
   background: black;
+  background: rgba(0,0,0,0.4);
+  padding: 30px;
 }
