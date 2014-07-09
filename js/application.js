@@ -1,3 +1,5 @@
 $(document).ready(function() {
-	$(".container").slideDown(600);
+	setTimeout(function() {
+		$(".container").slideDown(600);
+	}, 1000);
 });
